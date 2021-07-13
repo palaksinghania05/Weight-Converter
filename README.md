@@ -1,12 +1,13 @@
 # Weight Converter
-# Made by: Palak Singhania 
 
 # Description
-1. This is a simple weight converter project in which the user enters the weight in kilograms and it gets converted to 
-grams, pounds and ounces.
-2. It contains two files : index.html and main.css
+This project was made to contribute under Lets Grow More Summer of Code 2021.
 
-# screenshots
+# Purpose
+A simple weight converter project in which the user enters the weight in kilograms and it gets converted to 
+grams, pounds and ounces.
+
+# Screenshots
 a. When we don't enter any value or the value is less than or equal to zero then an alert appears.
 
 ![](./screenshots/when_no_value_passed.png)
